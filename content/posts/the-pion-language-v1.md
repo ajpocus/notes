@@ -1,4 +1,7 @@
-# The Pion Language, v1
+---
+title: "The Pion Language V1"
+date: 2020-12-12T00:11:44-05:00
+---
 
 ## The simple things
 

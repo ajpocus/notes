@@ -1,4 +1,7 @@
-# The Pion Engine
+---
+title: "The Pion Engine"
+date: 2020-12-11T17:26:00-05:00
+---
 
 ## Intro
 

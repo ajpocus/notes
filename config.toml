@@ -1,0 +1,8 @@
+baseURL = "https://austinpocus.com/"
+languageCode = "en-us"
+title = "ajpocus's notes"
+theme = "ananke"
+
+[deployment]
+
+URL = "s3://ajpocus-notes?region=us-east-1"

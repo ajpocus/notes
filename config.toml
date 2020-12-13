@@ -9,3 +9,4 @@ theme = "ananke"
 
 name = "production"
 URL = "s3://austinpocus.com?region=us-east-1"
+cloudfront = "ELJZDBLCTCBH2"

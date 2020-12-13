@@ -1,7 +1,6 @@
 ---
 title: "Double-A Batteries"
 date: 2020-12-13T12:42:15-05:00
-draft: true
 ---
 
 Random thought: batteries are a powerful thing.

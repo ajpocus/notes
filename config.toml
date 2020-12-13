@@ -4,6 +4,19 @@ title = "notes by ajpocus"
 theme = "simpleness"
 googleAnalytics = "UA-185432483-1"
 
+[menu]
+
+  [[menu.main]]
+    identifier = "home"
+    name = "notes by ajpocus"
+    url = "/"
+    weight = -110
+
+  [[menu.main]]
+    name = "about"
+    url = "/about/"
+    weight = -100
+
 [deployment]
 
 [[deployment.targets]]

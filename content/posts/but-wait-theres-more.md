@@ -15,5 +15,4 @@ There are other guides on the web, if you search something like "s3 cloudfront s
 
 We'll see with this post.
 
-[edit: it worked! :D]
-
+\[edit: it worked! :D\]

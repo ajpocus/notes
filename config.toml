@@ -2,7 +2,7 @@ baseURL = "https://austinpocus.com/"
 languageCode = "en-us"
 title = "ajpocus's notes"
 theme = "ananke"
-googleAnalytics = "G-XGBJNH803N"
+googleAnalytics = "UA-185432483-1"
 
 [deployment]
 

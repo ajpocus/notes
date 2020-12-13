@@ -13,7 +13,7 @@ These days, you have to create a CloudFront instance that points to the bucket. 
 
 Then there's IAM. Oh, there's IAM...
 
-IAM is like if the DMV was online. It's filling out forms in triplicate. It's bureaucracy incarnate. It's the bane of my existence, sometimes. But I managed to get a read policy on the S3 bucket, so that's nice. I guess. 
+IAM is like if the DMV was online. It's filling out forms in triplicate. It's bureaucracy incarnate. It's the bane of my existence, sometimes. But I managed to get a read policy on the S3 bucket, so that's nice. I guess.
 
 It would be nicer if there were sane default templates I could choose from.
 

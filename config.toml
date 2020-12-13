@@ -8,4 +8,4 @@ theme = "ananke"
 [[deployment.targets]]
 
 name = "production"
-URL = "s3://ajpocus-notes?region=us-east-1"
+URL = "s3://austinpocus.com?region=us-east-1"

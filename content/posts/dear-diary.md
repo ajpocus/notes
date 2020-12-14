@@ -1,7 +1,6 @@
 ---
 title: "Dear Diary"
 date: 2020-12-14T17:50:19-05:00
-draft: true
 ---
 
 This is starting to feel like a diary or a journal, anyway. Today, during the day job at [Hacker Noon](https://hackernoon.com/?ref=austinpocus.com), I was working on something I started late last week: a personalized homepage. 

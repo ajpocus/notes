@@ -13,6 +13,11 @@ googleAnalytics = "UA-185432483-1"
     weight = -110
 
   [[menu.main]]
+    name = "tags"
+    url = "/tags/"
+    weight = -105
+
+  [[menu.main]]
     name = "about"
     url = "/about/"
     weight = -100

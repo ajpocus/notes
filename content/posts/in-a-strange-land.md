@@ -1,7 +1,7 @@
 ---
 title: "In a Strange Land"
 date: 2020-12-13T15:45:09-05:00
-tags: ["funky", "stream-of-consciousness", "personal", "interactive-fiction", "engines"]
+tags: ["funky", "stream-of-consciousness", "personal", "interactive-fiction", "engines", "rants"]
 ---
 
 > Oh, the wicked carried us away in captivity,

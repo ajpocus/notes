@@ -1,6 +1,7 @@
 ---
 title: "Double-A Batteries"
 date: 2020-12-13T12:42:15-05:00
+tags: ["rants", "energy", "science", "physics", "shower-thoughts"]
 ---
 
 Random thought: batteries are a powerful thing.

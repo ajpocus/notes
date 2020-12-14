@@ -1,6 +1,7 @@
 ---
 title: "But Wait There's More"
 date: 2020-12-12T22:41:18-05:00
+tags: ["rants", "debugging", "aws", "hugo", "meta"]
 ---
 
 There's always more.

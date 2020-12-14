@@ -1,6 +1,7 @@
 ---
 title: "Deploying Hugo to S3"
 date: 2020-12-12T21:47:03-05:00
+tags: ["howto", "tutorials", "aws", "iam", "meta"]
 ---
 
 Jeez Louise, what an ordeal. I mean, it's always a slog configuring any sort of cloud service, but I was sort of hoping AWS was different. I was both right and wrong.

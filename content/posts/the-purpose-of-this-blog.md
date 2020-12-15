@@ -1,7 +1,6 @@
 ---
 title: "The Purpose of This Blog"
 date: 2020-12-14T20:54:20-05:00
-draft: true
 ---
 
 Why does this blog exist? To record my thoughts in near-real-time.

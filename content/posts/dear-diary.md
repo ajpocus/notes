@@ -4,9 +4,9 @@ date: 2020-12-14T17:50:19-05:00
 tags: ["hacker-noon", "work", "interactive-fiction", "engines", "demos"]
 ---
 
-This is starting to feel like a diary or a journal, anyway. Today, during the day job at [Hacker Noon](https://hackernoon.com/?ref=austinpocus.com), I was working on something I started late last week: a personalized homepage. 
+This is starting to feel like a diary or a journal, anyway. Today, during the day job at [Hacker Noon](https://hackernoon.com/?ref=austinpocus.com), I was working on something I started late last week: a personalized homepage.
 
-Most of our users don't even know it yet, but they will soon (read: now): you can get personalized content in your inbox using a tag subscription system I helped build -- if you already have an account, you can just go to <https://app.hackernoon.com/subscriptions>, it's that easy! 
+Most of our users don't even know it yet, but they will soon (read: now): you can get personalized content in your inbox using a tag subscription system I helped build -- if you already have an account, you can just go to <https://app.hackernoon.com/subscriptions>, it's that easy!
 
 You can also hover over your avatar, and click "Subscriptions" when you're logged in. If you don't have an account, you can [sign up here](https://app.hackernoon.com/signup?ref=austinpocus.com).
 

@@ -1,7 +1,7 @@
 ---
 title: "Watchable Computed Variables in Native Javascript"
 date: 2020-12-18T18:44:03-05:00
-draft: true
+tags: ["chats-with-dane", "hacker-noon", "state-management", "javascript", "react"]
 ---
 
 I was talking with [Dane of Colorado](https://twitter.com/duilen) today, and we got to talking about state management in Javascript, and specifically how vanilla Javascript can help frameworks get the job done with less boilerplate. Less boilerplate is always good, right?

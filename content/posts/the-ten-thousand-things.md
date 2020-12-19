@@ -1,7 +1,7 @@
 ---
 title: "The Ten Thousand Things"
 date: 2020-12-19T13:27:24-05:00
-draft: ["plan", "retro-dev", "engines", "rants", "vonnegut"]
+tags: ["plan", "retro-dev", "engines", "rants", "vonnegut"]
 ---
 
 I've been contemplating different options regarding what to code today and tomorrow. I mean, hardly a day goes by without me coding, except when I'm sick. And since I'm just now getting over being sick, I've still got the itch.

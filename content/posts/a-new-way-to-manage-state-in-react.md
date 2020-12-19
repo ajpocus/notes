@@ -1,7 +1,7 @@
 ---
 title: "A New Way to Manage State in React"
 date: 2020-12-16T17:46:26-05:00
-tags: ["hacker-noon", "open-source", "react", "state-management", "hooks"]
+tags: ["hacker-noon", "open-source", "react", "state-management", "hooks", "chats-with-dane"]
 ---
 
 I was talking with [Dane](https://twitter.com/duilen) this afternoon, and I showed him a concept for a React hook, that would allow you to add callbacks to be notififed when state is actually, really updated. After a long discussion and lots of great ideas being thrown around, we've come up with a concept that I think will, frankly, blow your socks right off. We call it `useSharedState`.

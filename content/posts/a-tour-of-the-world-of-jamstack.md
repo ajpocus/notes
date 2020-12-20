@@ -28,7 +28,7 @@ tl;dr It's worth checking out, just so you can say you have, and it _is_ popular
 
 ## Hugo: like Jekyll, but in Javascript
 
-The headline pretty much says it all -- [Hugo](https://gohugo.io/) is tailor-made for taking Markdown and turning it into static HTML. It's a static site generator, pretty much just like [Jekyll](https://jekyllrb.com/), and it works great! I'm actually using it to generate <austinpocus.com>, as of the date of this post at least.
+The headline pretty much says it all -- [Hugo](https://gohugo.io/) is tailor-made for taking Markdown and turning it into static HTML. It's a static site generator, pretty much just like [Jekyll](https://jekyllrb.com/), and it works great! I'm actually using it to generate [austinpocus.com](https://austinpocus.com/), as of the date of this post at least.
 
 Where Hugo shines is static content. Where it doesn't shine, so much, is as you might expect, the dynamic side of things. It's Jekyll but in JS, pretty much what it says on the tin.
 

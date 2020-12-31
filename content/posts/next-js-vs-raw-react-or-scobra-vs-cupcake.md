@@ -1,7 +1,7 @@
 ---
 title: "Next.js vs Raw React, or, Scobra vs Cupcake"
 date: 2020-12-30T22:10:42-05:00
-draft: true
+tags: ["react", "nextjs", "metal", "tools", "programming", "engines", "vonnegut"]
 ---
 
 That was a great song back in the day, by Arsonists Get all the Girls.

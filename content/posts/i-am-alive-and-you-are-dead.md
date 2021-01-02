@@ -1,7 +1,7 @@
 ---
 title: "I Am Alive and You Are Dead"
 date: 2021-01-01T21:43:05-05:00
-draft: true
+tags: ["rants", "pkd", "philosophy", "thought-dump"]
 ---
 
 The title of this post is taken from _Ubik_, a fantastic book by Philip K. Dick.

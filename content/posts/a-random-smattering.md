@@ -1,7 +1,7 @@
 ---
 title: "A Random Smattering"
 date: 2020-12-26T18:57:28-05:00
-tags: ["rants", "thought-dumps", "encryption", "secrecy", "transparency"]
+tags: ["rants", "thought-dump", "encryption", "secrecy", "transparency"]
 ---
 
 Because it worked last time, why not, here's another random smattering of thoughts.

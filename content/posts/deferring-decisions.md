@@ -8,7 +8,7 @@ It all started with a todo list.
 
 The idea was to create a live updating todo app that could be shared by simply copy-pasting the url. Easy, right?
 
-Except I started to get ideas, branches off of the main road. In one case, it was a potential rabbit hole, but as I described [in my last post](https://austinpocus.com/what-bob-ross-teaches-us-about-making-things), I got past it.
+Except I started to get ideas, branches off of the main road. In one case, it was a potential rabbit hole, but as I described [in my last post](https://austinpocus.com/posts/what-bob-ross-teaches-us-about-making-things), I got past it.
 
 This time, I'm dealing with a similar problem, a similar constraint, a roadblock I couldn't seem to get around until I reimagined the way things should work.
 

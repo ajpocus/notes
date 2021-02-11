@@ -1,7 +1,7 @@
 ---
 title: "The Forest and the Trees"
 date: 2021-02-10T23:21:25-05:00
-draft: true
+tags: ["rants", "thought-dump", "reflections", "how-to-think", "methodology", "philosophy"]
 ---
 
 We've all heard the saying: "they couldn't see the forest for the trees". I'd like to run with that metaphor, because I think I've been encountering this as a major issue in my personal product development process.
@@ -10,7 +10,7 @@ Imagine a forest. Imagine you're tagging trees in this imaginary forest -- your 
 
 What I do is, I go deep into the forest, and start worrying about tagging trees deep in the heart of the forest, instead of first splitting the larger chunk into smaller pieces, smaller parcels of land.
 
-To use another metaphor, I'm doing a depth first search when I should be doing a breadth first search. Occasionally, the problem happens in reverse, too.
+To use another metaphor, I'm doing a depth first search when I should be doing a breadth first search. Occasionally, the problem happens in reverse, too, where I'm so overwhelmed by decisions that I can't dive into one in particular (but that's rare).
 
 I'm seeing this crop up, more and more, as I try to build micro apps. I helped build [Vennly](https://venn.ly) with the ever-wise guidance of [my friend Dane](https://v1labs.com), but we very carefully scoped things so that my habit of diving into the deep end and not coming up for air wouldn't affect us so much. I wouldn't get into so many rabbit holes.
 
@@ -38,4 +38,4 @@ Some of this really speaks to the rabbit hole problem. For example, I'm fine-tun
 
 Anyway, I'll likely sketch out the big picture next, and see which sections of the app forest are unexplored, and which have detail work already. That'll tell me which details I need to pay attention to, and which can wait.
 
-Til' next time -- don't take any wooden nickels.
+Til' next time, this has been Austin, doing deep dives and rambling about it so you don't have to.

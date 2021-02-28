@@ -1,6 +1,6 @@
 ---
 title: "Never Bring a Gun to a Knife Fight"
-date: 2020-12-26T17:16:43-05:00
+date: 2021-02-27T19:16:43-05:00
 tags: ["v1labs-makers", "pocus-labs", "business", "planning", "adventure-kit", "chats-with-dane"]
 ---
 

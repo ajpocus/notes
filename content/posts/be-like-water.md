@@ -20,7 +20,7 @@ Water "goes to the low places". Water takes the path of least resistance to get 
 
 What gets me thinking about this, so early in the morning?
 
-I've been hitting a major roadblock in [Graffitoes], my collaborative graffiti wall project. I wanted to create "themes", such that a background image along with a set of fonts and colors for the text would make a cohesive whole.
+I've been hitting a major roadblock in [Graffitoes](https://makers.v1labs.com/c/show/graffitoes-pre-v1-preview), my collaborative graffiti wall project. I wanted to create "themes", such that a background image along with a set of fonts and colors for the text would make a cohesive whole.
 
 Boy, is this a bigger challenge than I thought! I mean, when you get into the nitty gritty of it, putting text on an image background is not a good look, as web devs found out (or didn't) in the 90s.
 

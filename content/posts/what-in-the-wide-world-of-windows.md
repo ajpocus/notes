@@ -1,6 +1,6 @@
 ---
 title: "What in the Wide World of Windows"
-date: 2020-12-16T17:46:26-05:00
+date: 2021-03-16T18:13:26-05:00
 tags: ["windows", "rants", "win32", "c-sharp", "dot-net"]
 ---
 

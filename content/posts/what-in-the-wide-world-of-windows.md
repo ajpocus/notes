@@ -4,7 +4,7 @@ date: 2021-03-16T18:13:27-05:00
 tags: ["windows", "rants", "win32", "c-sharp", "dot-net"]
 ---
 
-It's happened, folks. I've become a Windows dev.
+It's happened, folks. I've become a Windows dev
 
 Not that I'm writing all my code on Windows, at all. I just want to develop a Windows app, so: Windows it is, for the moment.
 

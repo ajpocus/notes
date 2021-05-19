@@ -1,7 +1,6 @@
 ---
 title: "\"Real\" Engineering: The First Cut"
 date: 2021-05-16T14:29:08-04:00
-draft: true
 tags: ["3d-modeling", "engineering", "making", "creative-software", "physics", "3d-printing"]
 ---
 

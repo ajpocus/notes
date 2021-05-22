@@ -1,7 +1,6 @@
 ---
 title: "Reflections"
 date: 2021-05-22T12:20:29-04:00
-draft: true
 tags: ["rants", "thought-dump", "self-reflection", "how-to-think", "talking-to-myself"]
 ---
 

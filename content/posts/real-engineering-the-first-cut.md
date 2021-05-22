@@ -40,7 +40,7 @@ You can also run a shape, like a circle, _through_ a 3D object in order to remov
 
 Anyway, there are a lot more tools I have yet to discover. For example, there's the "revolve" tool, which can be used to make a helix (like if you're making a screw, or some sort of spiral structure).
 
-I face many challenges from here, if I actually want to make this thing. 
+I face many challenges from here, if I actually want to make this thing.
 
 First are the design challenges: I found early on that the screenshotted design above won't work, for example. This is because if there are multiple picking bars going down parallel to concentric circles of rings, the tuning head assembly would have to be below those bars. This makes for a difficult tuning experience -- I want the tune to be easily changed, and I don't want anyone to have to take the thing apart just to tune the strings or replace them.
 

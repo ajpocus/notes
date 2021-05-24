@@ -1,7 +1,7 @@
 ---
 title: "The Foxie Language and the Hounddog Engine"
 date: 2021-05-24T14:26:27-04:00
-draft: true
+tags: ["gamedev", "rants", "thought-dump", "creative-software", "foxie", "hounddog"]
 ---
 
 Have you ever wanted to make your own old-school-style game? The Foxie programming language, along with the Hounddog Engine, are the culmination of over 5 years of thought and work with regards to a custom game creation toolkit. With it, **anyone** will be able to make their own game!

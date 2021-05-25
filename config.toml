@@ -7,12 +7,6 @@ googleAnalytics = "UA-185432483-1"
 [menu]
 
   [[menu.main]]
-    identifier = "home"
-    name = "notes by ajpocus"
-    url = "/"
-    weight = -110
-
-  [[menu.main]]
     name = "tags"
     url = "/tags/"
     weight = -105

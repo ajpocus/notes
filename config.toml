@@ -8,7 +8,6 @@ summaryLength = "160"
 
 [params]
   description = "The personal blog of Austin Pocus"
-  images = ["img/me.jpg"]
   title = "notes by ajpocus"
 
 [taxonomies]

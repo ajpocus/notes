@@ -1,8 +1,18 @@
 baseURL = "https://austinpocus.com/"
 languageCode = "en-us"
 title = "notes by ajpocus"
+description = "The personal blog of Austin Pocus"
 theme = "simpleness"
 googleAnalytics = "UA-185432483-1"
+summaryLength = "240"
+
+[params]
+  description = "The personal blog of Austin Pocus"
+  images = ["img/me.jpg"]
+  title = "notes by ajpocus"
+
+[taxonomies]
+  tags = "tags"
 
 [menu]
 

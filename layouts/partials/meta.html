@@ -4,3 +4,6 @@
 <meta name="twitter:creator" content="@AustinPocus">
 <meta name="twitter:title" content="{{ if .IsHome }} {{ .Site.Title }} {{ else }} {{ .Title }} | {{ .Site.Title }} {{ end }}">
 <meta name="twitter:description" content="{{ if .Summary }} {{ .Summary }} {{ else }} {{ .Description | default .Site.Params.description }} {{ end }}">
+{{- if .Params.Image }}
+  <meta name="twitter:image" content="{{ .Params.Image }}">
+{{- end }}

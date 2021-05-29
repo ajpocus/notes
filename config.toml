@@ -4,7 +4,7 @@ title = "notes by ajpocus"
 description = "The personal blog of Austin Pocus"
 theme = "simpleness"
 googleAnalytics = "UA-185432483-1"
-summaryLength = "240"
+summaryLength = "160"
 
 [params]
   description = "The personal blog of Austin Pocus"

@@ -1,7 +1,6 @@
 ---
 title: "Native vs Web"
 date: 2021-06-24T11:15:38-04:00
-draft: true
 tags: ["adventure-kit", "ladybird", "rants", "thought-dump", "windows", "gamedev"]
 ---
 

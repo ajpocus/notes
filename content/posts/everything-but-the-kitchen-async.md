@@ -1,7 +1,7 @@
 ---
 title: "Everything but the Kitchen Async"
 date: 2021-07-14T19:02:43-04:00
-tags: ["dev-journals", "adventure-kit", "python", "win32", "threading"]
+tags: ["dev-journals", "adventure-kit", "python", "win32", "ipc"]
 ---
 
 This is the start of a series of journals, hopefully daily, that will roughly chronicle my progress on the Adventure Kit prototype. Let's dive in!

@@ -1,7 +1,7 @@
 ---
 title: "Dev Journals 2: The Journaling"
 date: 2021-07-15T19:15:32-04:00
-draft: true
+tags: ["dev-journals", "adventure-kit", "thought-dump", "python", "ipc"]
 ---
 
 Today wasn't as good as yesterday, but I did learn a few things, especially around the myriad ways to manage processes with Python.

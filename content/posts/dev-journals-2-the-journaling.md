@@ -13,7 +13,7 @@ There's a saying in the _Yi Jing_, the _Book of Changes_, in a translation I can
 
 Today, I was like the fox. Today, I rushed ahead. To put it another way: I pulled a "Leroy Jenkins".
 
-It started innocently enough. I was going to try and get a version of my code running, using [the design I discussed yesterday](/posts/from-rustacean-to-pythonista).
+It started innocently enough. I was going to try and get a version of my code running, using [the design I discussed yesterday](/posts/everything-but-the-kitchen-async).
 
 However, I learned quickly that I didn't have the tools I needed. In vain, I pushed forward:
 

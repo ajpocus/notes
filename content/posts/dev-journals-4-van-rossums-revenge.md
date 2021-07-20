@@ -42,7 +42,7 @@ I went a little nuts with the used bookstore! Clearly. But I'll be talking more 
 
 That said, I have to focus on the main goal: getting a proof-of-concept going for Adventure Kit. The todo list remains the same -- time to get back to it.
 
-P.S. I just realized it's July 20! It's the 55-year anniversary of the moon landing! And with that, I leave you with some classic Bowie:
+P.S. I just realized it's July 20! It's the 52-year anniversary of the moon landing! And with that, I leave you with some classic Bowie:
 
 {{<youtube iYYRH4apXDo>}}
 

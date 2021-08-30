@@ -1,7 +1,6 @@
 ---
 title: "Dev Journals 10: Yukon Vengeance"
 date: 2021-08-30T14:16:09-04:00
-draft: true
 tags: ["dev-journals", "adventure-kit", "typescript", "javascript", "make-a-quest", "product-development"]
 ---
 

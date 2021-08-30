@@ -6,6 +6,17 @@ theme = "simpleness"
 googleAnalytics = "UA-185432483-1"
 summaryLength = "160"
 
+[related]
+includeNewer = false
+threshold = 80
+toLower = false
+[[related.indices]]
+name = 'tags'
+weight = 100
+[[related.indices]]
+name = 'date'
+weight = 10
+
 [params]
   description = "The personal blog of Austin Pocus"
   title = "notes by ajpocus"

@@ -41,6 +41,6 @@ weight = 10
 [[deployment.targets]]
 
 name = "production"
-URL = "s3://austinpocus.com?region=us-east-1"
+URL = "s3://blog.austinpocus.com?region=us-east-1"
 cloudfront = "ELJZDBLCTCBH2"
 

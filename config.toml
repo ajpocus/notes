@@ -33,7 +33,7 @@ weight = 10
 
   [[menu.main]]
     name = "about"
-    url = "/about/"
+    url = "https://austinpocus.com"
     weight = -100
 
 [deployment]

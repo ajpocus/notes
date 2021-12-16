@@ -2,3 +2,4 @@
 node_modules
 public
 tmp
+.hugo_build.lock

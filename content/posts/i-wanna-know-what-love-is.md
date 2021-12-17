@@ -18,9 +18,7 @@ I could even potentially wrap or monkey patch the love2d APIs, to make them nice
 
 ## Whole Lotta LÖVE
 
-If you're Portuguese, you might find the above corny or cheesy (Lua is Portuguese for "moon"). I apologize for nothing!
-
-Anyway, I'd like to take a brief moment to talk about how awesome Lua is. It's this incredible little language, interpreted by the default implementation but also available in a compiled variety called [LuaJIT](https://luajit.org/luajit.html). It's _fast_ and _small_ -- the whole LuaJIT VM weighs in at a featherweight **115KB**. Stick that in your CPU pipeline and smoke it!
+I'd like to take a brief moment to talk about how awesome Lua is. It's this incredible little language, interpreted by the default implementation but also available in a compiled variety called [LuaJIT](https://luajit.org/luajit.html). It's _fast_ and _small_ -- the whole LuaJIT VM weighs in at a featherweight **115KB**. Stick that in your CPU pipeline and smoke it!
 
 Its influences can be felt, if you've worked with a variety of languages. You can see the prototype-based OOP that's reminiscent of Javascript, for one (though Lua is a bit older, probably taking a cue from the Self language).
 

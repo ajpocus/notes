@@ -29,11 +29,16 @@ weight = 10
   [[menu.main]]
     name = "tags"
     url = "/tags/"
-    weight = -105
+    weight = -110
 
   [[menu.main]]
     name = "about"
     url = "https://austinpocus.com"
+    weight = -105
+  
+  [[menu.main]]
+    name = "subscribe"
+    url = "https://subscribe.austinpocus.com/get-new-posts"
     weight = -100
 
 [deployment]

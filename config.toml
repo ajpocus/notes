@@ -1,6 +1,6 @@
 baseURL = "https://blog.austinpocus.com/"
 languageCode = "en-us"
-title = "notes by ajpocus"
+title = "notes by Austin Pocus"
 description = "The personal blog of Austin Pocus"
 theme = "simpleness"
 googleAnalytics = "UA-185432483-1"
@@ -19,7 +19,7 @@ weight = 10
 
 [params]
   description = "The personal blog of Austin Pocus"
-  title = "notes by ajpocus"
+  title = "notes by Austin Pocus"
 
 [taxonomies]
   tags = "tags"

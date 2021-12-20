@@ -75,5 +75,8 @@ The other potential issue is the response structure: it could be a string or a t
 
 This is getting long, I lost my pace, and the quest data structure will be even more complex, so I'll make a "Part 2" and link it here when it's done.
 
+\[UPDATE: [Read part 2 here][part2]\]
+
 [loveintro]: /posts/i-wanna-know-what-love-is "The first post I wrote about Lua and love2d"
 [luatables]: /posts/lua-as-data "A post about translating Javascript objects into Lua tables"
+[part2]: /posts/designing-data-for-games-part-2 "Part 2 of this series"

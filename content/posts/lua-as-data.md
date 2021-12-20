@@ -36,10 +36,6 @@ If you're not up on your regexes, the first one simply captures the value in dou
 From there, you can write the contents to a file and trigger a download:
 
 ```javascript
-if (state === null) {
-  alert("Please create at least one quest first!");
-}
-
 // Code modified from https://stackoverflow.com/questions/13405129/javascript-create-and-save-file
 // Licensed under CC-BY-SA 4.0
 // where luaState is an object

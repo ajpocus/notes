@@ -2,7 +2,6 @@
 title: "Designing Data for Games, Part 2"
 date: 2021-12-20T16:41:25-05:00
 tags: ["adventure-kit", "dev-journals", "love2d", "lua", "architecture"]
-draft: true
 ---
 
 In [part 1 of this series][part1], I wrote about a data structure for dialogue trees. Here, I'd like to finalize that structure and discuss a data structure for RPG quests.

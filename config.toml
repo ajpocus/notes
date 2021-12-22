@@ -36,16 +36,7 @@ weight = 10
     url = "https://austinpocus.com"
     weight = -105
   
-  [[menu.main]]
-    name = "subscribe"
-    url = "https://subscribe.austinpocus.com/get-new-posts"
-    weight = -100
-
-[deployment]
-
-[[deployment.targets]]
-
-name = "production"
-URL = "s3://blog.austinpocus.com?region=us-east-1"
-cloudfront = "ELJZDBLCTCBH2"
-
+  # [[menu.main]]
+  #   name = "subscribe"
+  #   url = "https://subscribe.austinpocus.com/get-new-posts"
+  #   weight = -100

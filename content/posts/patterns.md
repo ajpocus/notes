@@ -1,7 +1,6 @@
 ---
 title: "Patterns"
 date: 2022-07-18T14:05:55-04:00
-draft: true
 tags: ["language-design", "dev-journals", "javascript", "python", "audio", "dsp"]
 ---
 

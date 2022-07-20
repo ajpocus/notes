@@ -4,7 +4,7 @@ date: 2021-05-16T14:29:08-04:00
 tags: ["3d-modeling", "engineering", "making", "creative-software", "physics", "3d-printing"]
 ---
 
-This will be a draft about drafting. Not drafting like in a war, but drafting like in engineering and architecture: making blueprints. More specificially, it's about my experiences so far with Shapr3D on the iPad, as a complete novice.
+This will be a draft about drafting. Not drafting like in a war, but drafting like in engineering and architecture: making blueprints. More specifically, it's about my experiences so far with Shapr3D on the iPad, as a complete novice.
 
 I haven't given up on [the NES effort](/posts/the-long-strange-trip), by the way. I'm still working on a rendering engine for that project, and I fully expect it'll take me into the next year, but I _had_ to make something to 3D print! Consider it a shorter-term project.
 

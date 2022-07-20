@@ -1,10 +1,10 @@
 ---
-title: "Zig as Implementation Langauge"
+title: "Zig as Implementation Language"
 date: 2022-03-21T18:09:11-04:00
 tags: ["ziglang", "gamedev", "adventure-kit", "language-design", "nes"]
 ---
 
-After a good sabbatical, I'm back and writing. Lately, I've been interesting in the [Zig programming langauge][1], and how it might relate to [NES development and 6502 assembly][2].
+After a good sabbatical, I'm back and writing. Lately, I've been interesting in the [Zig programming language][1], and how it might relate to [NES development and 6502 assembly][2].
 
 Zig, for the uninitiated, is a small and fast C replacement and glue language. At least, that's how I've been thinking about it. It's like Rust with the restrictions (and memory safety) removed, a tradeoff I favor, since I'm developing games and I want to hack out a concept, not necessarily a production system.
 

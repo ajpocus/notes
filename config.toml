@@ -3,7 +3,6 @@ languageCode = "en-us"
 title = "notes by Austin Pocus"
 description = "The personal blog of Austin Pocus"
 theme = "simpleness"
-googleAnalytics = "UA-185432483-1"
 summaryLength = "160"
 
 [related]

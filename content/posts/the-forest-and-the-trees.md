@@ -16,7 +16,7 @@ I'm seeing this crop up, more and more, as I try to build micro apps. I helped b
 
 Geez, I'm really mixing my metaphors here. But you know what I'm talking about, if you know product development. It's a classic scoping and timeboxing issue. I'm trying to be more self-aware regarding this habit, but of course, instinct kicks in, and sometimes you just hack on stuff for a couple hours before you stop and think, "hey, maybe this isn't the way".
 
-What I need to do here, is "keep to the center". I need to pay attention to details when those details are pertinent to the task at hand. I'm repeating some of what I said in [my last post](https://austinpocus.com/posts/deferring-decisions), but it still rings true.
+What I need to do here, is "keep to the center". I need to pay attention to details when those details are pertinent to the task at hand. I'm repeating some of what I said in [my last post](/posts/deferring-decisions), but it still rings true.
 
 It's not all bad, though. I've been doing a damn fine job of getting around roadblocks, of finding the simple solution "needle" in the "haystack" of potential decisions to be made. I just need to stick to it, not get discouraged by dead ends or branches that don't work out. It happens, after all.
 

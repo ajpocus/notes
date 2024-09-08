@@ -4,7 +4,7 @@ date: 2020-12-30T20:46:45-05:00
 tags: ["chats-with-dane", "visual-programming", "engines", "vonnegut", "programming"]
 ---
 
-I'd like to get into more detail, when it comes to my ideas on visual programming, after a chat with [Dane of Colorado](https://twitter.com/duilen). There are a lot of details to be worked out, naturally, especially with the assertions I made in [my last post](https://austinpocus.com/visual-programming-the-death-of-text).
+I'd like to get into more detail, when it comes to my ideas on visual programming, after a chat with [Dane of Colorado](https://twitter.com/duilen). There are a lot of details to be worked out, naturally, especially with the assertions I made in [my last post](/posts/visual-programming-the-death-of-text).
 
 First things first, gestures and motion won't solve everything -- there's a lot to be worked out. You need primitives.
 

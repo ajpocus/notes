@@ -2,7 +2,7 @@
 title: "About"
 ---
 
-My name's Austin Pocus (like "hocus pocus"), and I've been writing web software profesionally for nearly a decade. In between, I've attempted some pretty weird stuff, like:
+My name's Austin Pocus (like "hocus pocus"), and I've been writing web software profesionally for over a decade. In between, I've attempted some pretty weird stuff, like:
 
 - Reading and analyzing the sound waves from my guitar
 - Making a toolkit for building your own old-school RPG
